@@ -1,0 +1,19 @@
+{
+    "name" : "testapp",
+    "repository" : {
+        "type" : "git"
+        , "url" : ""
+    },
+    "dependencies" : {
+        "underscore" : "*"
+    },
+    "devDependencies" : {
+        "gulp" : "*"
+        , "gulp-sass" : "*"
+        , "gulp-imagemin" : "*"
+        , "imagemin-pngquant" : "*"
+        , "gulp-autoprefixer" : "*"
+        , "gulp-concat" : "*"
+        , "gulp-uglyfly" : "*"
+    }
+}
