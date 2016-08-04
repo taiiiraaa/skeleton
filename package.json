@@ -8,12 +8,16 @@
         "underscore" : "*"
     },
     "devDependencies" : {
-        "gulp" : "*"
-        , "gulp-sass" : "*"
-        , "gulp-imagemin" : "*"
-        , "imagemin-pngquant" : "*"
-        , "gulp-autoprefixer" : "*"
-        , "gulp-concat" : "*"
-        , "gulp-uglyfly" : "*"
+        "gulp" : "*",
+        "gulp-sass" : "*",
+        "gulp-imagemin" : "*",
+        "imagemin-pngquant" : "*",
+        "gulp-autoprefixer" : "*",
+        "gulp-concat" : "*",
+        "gulp-uglyfly" : "*",
+        "nightmare": "^2.5.3",
+        "chai": "^3.5.0",
+        "mocha": "^2.5.3",
+        "mocha-generators": "^1.2.0"
     }
 }
